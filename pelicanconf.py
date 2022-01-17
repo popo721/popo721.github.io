@@ -1,10 +1,10 @@
 AUTHOR = "popo721"
-SITENAME = "aaa"
+SITENAME = "かそろぐ"
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = "Europe/Rome"
+TIMEZONE = "Asia/Tokyo"
 
 DEFAULT_LANG = "ja"
 
@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 
 # USER SETTING
 STATIC_PATHS = ["images"]
-FEED_ALL_ATOM = "feeds/all.atom.xml"
-FEED_ALL_RSS = "feeds/all.rss.xml"
-AUTHOR_FEED_RSS = "feeds/%s.rss.xml"
-RSS_FEED_SUMMARY_ONLY = False
+# FEED_ALL_ATOM = "feeds/all.atom.xml"
+# FEED_ALL_RSS = "feeds/all.rss.xml"
+# AUTHOR_FEED_RSS = "feeds/%s.rss.xml"
+# RSS_FEED_SUMMARY_ONLY = False
